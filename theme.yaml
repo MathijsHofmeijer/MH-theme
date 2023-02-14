@@ -1,0 +1,14 @@
+name: 'General Theme'
+description: 'Theme based on general theme'
+author: MathijsHofmeijer
+homepage: ''
+authorCode: ''
+code: ''
+parent: ''
+database: '0'
+form:
+    fields:
+        site_name:
+            label: 'Site name'
+            comment: 'The website name as it should appear on the front-end'
+            default: null

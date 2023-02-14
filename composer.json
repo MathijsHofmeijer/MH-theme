@@ -1,0 +1,8 @@
+{
+    "name": "TestTheme",
+    "type": "october-theme",
+    "description": "Testthem before adding the right one",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
